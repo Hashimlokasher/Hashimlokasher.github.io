@@ -3340,7 +3340,7 @@ screen and (max-device-width: 660px) and (min-device-width: 400px) and (orientat
 }
 @media (min-width: 1199px) {
     #landingpage .contentRight h2 {
-        font-size: 110px;
+        font-size: 70px;
         letter-spacing: -5px;
         line-height: 90px;
         padding: 20px 0;
